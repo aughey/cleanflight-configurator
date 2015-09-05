@@ -18,6 +18,8 @@
         }
     },
 
+		"sockets": { "tcp": { "connect": "localhost:*" } },
+
     "permissions": [
         "https://www.google-analytics.com/",
         "https://*.github.com/",
